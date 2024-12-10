@@ -12,7 +12,7 @@ This project analyzes a dataset of restaurant reviews. The dataset contains:
   - `Review`: The text of the customer's review.
   - `Liked`: A binary column where `0` represents a negative review, and `1` represents a positive review.
 
-The goal of this project is to classify customer reviews as **positive** or **negative** using a **Logistic Regression** model.
+The goal of this project is to classify customer reviews as **positive** or **negative** using a **[Logistic Regression, SVM, DecisionTree, Naive Bayes, Random Forest, and KNN ]** models.
 
 ---
 
