@@ -34,7 +34,7 @@ The goal of this project is to classify customer reviews as **positive** or **ne
 ### 4. **Modeling**
 - **Data Splitting**: Split the data into training and testing sets.
 - **Logistic Regression**: Trained a Logistic Regression model to predict the sentiment of the reviews.
-- **Model Accuracy**: Achieved a model accuracy of **94.3%** on the test set.
+- **Model Accuracy**: Achieved a models best accuracy is **94.3%** on the test set.
 - **Confusion Matrix**: Evaluated model performance using a confusion matrix to understand the number of true positives, true negatives, false positives, and false negatives.
 
 ### 5. **Deployment**
